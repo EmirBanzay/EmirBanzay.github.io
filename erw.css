@@ -1,0 +1,143 @@
+.mane{
+    background-color: indigo;
+    display: block;
+    width: 15%;
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+    border-radius: 15px;
+    word-break: break-all;
+    top: 0;
+}
+.mane a{
+    display: block;
+    color: azure;
+    text-decoration: none;
+    font-size: 20pt;
+    padding: 10px;
+}
+*{
+ box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.mane h3{
+    color: azure ;
+    font-size: 24pt;
+}
+.klass{
+   width: 100%;
+   padding-left: 25%; 
+   padding-right: 20px;
+}
+.sas img{
+  width: 49%;
+   border-radius: 10px;
+}
+.klass h1{
+    font-size: 34pt;
+}
+.klass h2{
+    font-size: 25pt;
+    color: blueviolet;
+    word-break: break-all;
+}
+.klass p{
+    word-break: break-all;
+}
+.klass hr{
+    border: 5px solid blueviolet;
+    border-radius: 135465656565px;
+}
+.erdhfy{
+    font-weight: 900;
+}
+.aiaiyaaiaiaiya{
+    background-color: dimgrey;
+    width: 30%;
+    display: inline-block;
+    margin-right: 2%;
+    border-radius: 3px;
+    overflow: hidden;
+}
+.aiaiyaaiaiaiya img{
+    width: 100%;
+}
+.aiaiyaaiaiaiya div{
+padding: 15px;
+}
+.lsoreiy4o9{
+    width: 48%;
+    display: inline-block;
+    background-color: rgb(70, 152, 153);
+    border-radius: 38px;
+}
+.lsoreiy4o9 h2{
+    background-color: blueviolet;
+    color: white;
+    margin: 0;
+    border-radius: 100px;
+    padding: 20px;
+}
+.lsoreiy4o9 span , .lsoreiy4o9 button{
+    display: block;
+    word-break: break-all;
+    border-bottom: 1px solid black;
+    padding: 13px;
+    text-align: center;
+}
+.lsoreiy4o9 strong{
+    display: block;
+}
+.lsoreiy4o9 button{
+    border-radius: 12px;
+    border: 0;
+    background-color: aquamarine;
+    margin: 10px auto;
+    max-width: 90%;
+}
+.bbbrii_bbbrii_bicus_dikus_de_bikus_de_dicus form input{
+display: block;
+padding: 10px;
+width: 100%;
+margin-bottom: 10pt;
+}
+.bbbrii_bbbrii_bicus_dikus_de_bikus_de_dicus form button{
+    border-radius: 21px;
+    padding: 20px;
+    width: 100%;
+    border: 0;
+    background-color: blue;
+    color: gold;
+    font-size: 16px;
+    margin-bottom: 123px;
+}
+footer{
+    background-color: lightgray;
+    width: 100%;
+    padding: 25px ;
+}
+footer p{
+    text-align: right;
+}
+@media (max-width:768px) {
+    .aiaiyaaiaiaiya{
+        width: 100%;
+    }
+     .mane{
+        width: 100%;
+         transform: translate(-100%, 0);
+         transition: all 3s;
+     }
+     .active{
+        transform: translate(0, 0);
+     }
+     .lulululuaaalul{
+        z-index:10;
+        position: fixed;
+     }
+     .klass{
+        padding-left: 25px;
+     }
+}
